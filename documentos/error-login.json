@@ -1,0 +1,6 @@
+{
+    "status": 401,
+    "mensaje": "Fallo autentificación. Clave inválida, favor revisar sus credenciales.",
+    "codError": 10,
+    "timestamp": 1536264118950
+}

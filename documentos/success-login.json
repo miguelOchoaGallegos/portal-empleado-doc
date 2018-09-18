@@ -1,0 +1,11 @@
+{
+    "data": {
+        "correo": "admin@localhost",
+        "usuario": "admin",
+        "nombreUsuario": "Administrator Administrator"
+    },
+    "token": {
+        "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhcXVpdmF1c2VyIiwic2NvcGVzIjpbIlVTRVIiXSwiaXNzIjoiaHR0cHM6Ly93d3cudGVjaC5jb20ucGUvIiwiaWF0IjoxNTM2MjYzMjI0LCJleHAiOjE1MzYyNjUwMjR9.BMTYFMmSAcDY77Fhf5QyK-_kFfwepOsiPnBRroc00tA1Ct7n6PQS8hW5jt6UI8Uzcxxi_VrO5FxDM0VWi07okA",
+        "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhcXVpdmF1c2VyIiwic2NvcGVzIjpbIlJPTEVfUkVGUkVTSF9UT0tFTiJdLCJpc3MiOiJodHRwczovL3d3dy50ZWNoLmNvbS5wZS8iLCJqdGkiOiJkYzY1NDQ0Mi0wOGEyLTQ0OGQtYmM1Ni1mZjVlMzIxMDU0ODYiLCJpYXQiOjE1MzYyNjMyMjQsImV4cCI6MTUzNjI2NjgyNH0.QU2lCnlA5pzmvWIZmmSThoDFuSNAMJEGOwbQ7L3jnIZMg0oqp6Im633kcxC87TeGiHoKKtBqhcNfD_wmCYKOjQ"
+    }
+}
