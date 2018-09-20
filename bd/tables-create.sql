@@ -1,6 +1,13 @@
 
 use techdb;
 
+
+CREATE TABLE `user_empleado`(
+	`id_user` bigint NOT NULL,
+	`id_empleado` bigint NOT NULL
+) 
+
+
 CREATE TABLE `ac_compania`(
 	`id` bigint NOT NULL,
 	`descripcion` varchar(255) NOT NULL,
