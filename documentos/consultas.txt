@@ -1,0 +1,33 @@
+DatosPersonales
+
+id_tipo_documento - no se sabe de donde obtener la descripcion del tipo de documento
+id_situacion - no se sabe de donde obtener la descripcion de la situacion
+id_nacionalidad - no se sabe de donde obtener la descripcion de la nacionalidad
+id_estado_civil - no se sabe de donde obtener la descripcion del estado civil
+email - no se precisa donde obtener el correo de empresa
+id_grado_instruccion - no se sabe de donde obtener la descripcion del grado de instruccion
+id_centro_formacion - no se sabe de donde obtener la descripcion del centro de formacion
+carrera - no se sabe de donde obtener la descripcion de la carrera
+anioegreso - no se sabe de donde obtener la descripcion del año de egreso
+
+
+CuentaBancaria
+cuenta_haberes_banco - no se sabe de donde obtener el valor del campo
+cuenta_haberes_numero_cuenta - no se sabe de donde obtener el valor del campo
+cts_banco - no se sabe de donde obtener el valor del campo
+cts_numero_cuenta - no se sabe de donde obtener el valor del campo
+
+Seguros
+es_afiliado_eps - no se sabe de donde obtener el valor del campo
+es_afiliado_seguro_vida - no se sabe de donde obtener el valor del campo
+es_afiliado_sctr - no se sabe de donde obtener el valor del campo
+es_afiliado_vida_ley - no se sabe de donde obtener el valor del campo
+
+Dependientes
+parentesco - no se sabe de donde obtener el valor del campo
+nombre - no se sabe de donde obtener el valor del campo
+sexo - no se sabe de donde obtener el valor del campo
+edad - no se sabe de donde obtener el valor del campo
+fecha_nacimiento - no se sabe de donde obtener el valor del campo
+num_documento - no se sabe de donde obtener el valor del campo
+estado - no se sabe de donde obtener el valor del campo

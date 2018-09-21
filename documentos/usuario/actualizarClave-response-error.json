@@ -1,0 +1,8 @@
+{
+  "timestamp": 1537563552817,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "pe.com.tech.portal.empleado.error.HandlerException",
+  "message": "La clave ingresada no cumple con los requisitos minimos de seguridad: al menos 1 digito, al menos 1 caracter mayuscula, que la clave tenga 6 caracter",
+  "path": "/portal-empleado-rest/api/usuario/actualizarClave/"
+}

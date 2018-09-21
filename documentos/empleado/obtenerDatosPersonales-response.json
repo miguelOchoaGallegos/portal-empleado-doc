@@ -1,0 +1,22 @@
+{
+  "nombre": "Richard Gustavo",
+  "apePaterno": "Morales",
+  "apeMaterno": "Crespo",
+  "fechaNacimiento": "2007-10-23 00:00:00.0",
+  "tipoDocumento": "1",
+  "numDocumento": "42874836",
+  "paisEmisor": "1",
+  "situacion": "4",
+  "nacionalidad": "1",
+  "estadoCivil": "1",
+  "direccion": null,
+  "correoEmpresa": null,
+  "correoPersonal": null,
+  "numTelefonoCelularEmpresa": null,
+  "numTelefonoCelularPersonal": null,
+  "numTelefonoFijo": null,
+  "gradoInstruccion": "13",
+  "nombreInstitucion": "2",
+  "descripcionCarrera": "",
+  "anioEgreso": "2019"
+}

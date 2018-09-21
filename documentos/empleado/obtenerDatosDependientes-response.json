@@ -1,0 +1,20 @@
+[
+  {
+    "parentesco": "hijo",
+    "nombreCompleto": "juan perez",
+    "sexo": "Masculino",
+    "edad": "10",
+    "fechaNacimiento": "01/01/2008",
+    "numeroDocumento": "48484848",
+    "estado": "dependiente"
+  },
+  {
+    "parentesco": "hija",
+    "nombreCompleto": "maria rosa",
+    "sexo": "Femenico",
+    "edad": "8",
+    "fechaNacimiento": "01/01/2012",
+    "numeroDocumento": "55555555",
+    "estado": "dependiente"
+  }
+]
